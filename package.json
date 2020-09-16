@@ -1,0 +1,19 @@
+{
+  "name": "@kamlesh-nb/vpc",
+  "version": "0.0.1",
+  "description": "API for managing VPC using Terraform",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/@kamlesh-nb"
+  },
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "keywords": ["AWS", "VPC", "Terraform", "Node", "Express"],
+  "author": "kamlesh bambarde",
+  "license": "ISC"
+}
